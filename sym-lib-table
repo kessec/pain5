@@ -3,4 +3,5 @@
   (lib (name is31fl3731)(type Legacy)(uri C:/Users/Muki/Pictures/kicad-media/Keyboard/is31fl3731.lib)(options "")(descr ""))
   (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Muki/Pictures/kicad-media/TMK/keyboard_parts.lib)(options "")(descr ""))
   (lib (name mkl27z256vfm4)(type Legacy)(uri C:/Users/Muki/Pictures/kicad-media/TMK/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name pain5-rescue)(type Legacy)(uri ${KIPRJMOD}/pain5-rescue.lib)(options "")(descr ""))
 )
