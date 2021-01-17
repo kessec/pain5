@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri ${KIPRJMOD}/Switch_Keyboard/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/components/Type-C)(options "")(descr ""))
+  (lib (name ATMEGA-32U4-MUR)(type KiCad)(uri ${KIPRJMOD}/components/ATMEGA-32U4-MUR)(options "")(descr ""))
+  (lib (name components)(type KiCad)(uri ${KIPRJMOD}/components)(options "")(descr ""))
 )

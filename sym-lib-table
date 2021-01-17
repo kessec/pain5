@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name is31fl3731)(type Legacy)(uri ${KIPRJMOD}/components/is31fl3731.lib)(options "")(descr ""))
   (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/components/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name MCU-ATMEGA32U4-MUR_VQFN44_)(type Legacy)(uri ${KIPRJMOD}/components/MCU-ATMEGA32U4-MUR_VQFN44_.lib)(options "")(descr ""))
+  (lib (name MCU-ATMEGA32U4-MUR_VQFN44_)(type Legacy)(uri C:/Users/Muki/Music/Git/pain5/components/ATMEGA-32U4-MUR/MCU-ATMEGA32U4-MUR_VQFN44_.lib)(options "")(descr ""))
   (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/components/mkl27z256vfm4.lib)(options "")(descr ""))
 )
