@@ -1,4 +1,5 @@
-## The Pain 5 Keyboard!
+## The Pain 5 Keyboard! 
+![Pain-5 Logo](images/pain5-logo.svg)
 
 A 5-key keyboard that depends on pressing keys in combination! Supports up to 120 keys and/or macros!
 
