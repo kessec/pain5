@@ -3,4 +3,5 @@
   (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/components/keyboard_parts.lib)(options "")(descr ""))
   (lib (name MCU-ATMEGA32U4-MUR_VQFN44_)(type Legacy)(uri C:/Users/Muki/Music/Git/pain5/components/ATMEGA-32U4-MUR/MCU-ATMEGA32U4-MUR_VQFN44_.lib)(options "")(descr ""))
   (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/components/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name ATMEGA32U4-AU)(type Legacy)(uri ${KIPRJMOD}/components/ATMEGA-32U4-AU/ATMEGA32U4-AU.lib)(options "")(descr ""))
 )
